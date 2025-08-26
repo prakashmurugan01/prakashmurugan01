@@ -1,8 +1,8 @@
-# <div align="center">🚀 PRAKASH M - AI & PYTHON 🚀</div>
+# <div align="center">🚀 PRAKASH M - AI & FULLSTACK PYTHON DEVELOPER 🔥</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+ELITE+AI+DEVELOPER+%26+INNOVATOR+🤖;🔥+FULL+STACK+PYTHON+ARCHITECT+🔥;💡+DEEP+LEARNING+%26+COMPUTER+VISION+💡" alt="AI Developer Header" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+ELITE+AI+DEVELOPER+%26+INNOVATOR+🤖;🔥+FULL+STACK+PYTHON+ARCHITECT+🔥;alt="AI Developer Header" />
+</div> <br>
 
 
 
