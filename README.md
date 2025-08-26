@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+ELITE+AI+DEVELOPER+%26+INNOVATOR+🤖;🔥+FULL+STACK+PYTHON+ARCHITECT+🔥;💡+DEEP+LEARNING+%26+COMPUTER+VISION+💡" alt="AI Developer Header" />
 </div>
 
+
+
+
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20REVOLUTION&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Building%20Tomorrow's%20Intelligent%20Solutions&descAlignY=55&descSize=18" />
 </div>
